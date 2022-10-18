@@ -97,5 +97,4 @@ console.log(all);
 // 5b
 const [one, two, three, four, five, six, seven, eight, nine] = all;
 
-console.log(one, two, three, four, five, six, seven, eight, nine);
-
+console.log(one, two, three, four, five, six, seven, eight, chicken);
